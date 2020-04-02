@@ -1,4 +1,4 @@
 exports.handler = async (event) => {
-    // original ff
-    return {"message": "Successfully executed"};
+    // original ff 2
+    return { "message": "Successfully executed" };
 };

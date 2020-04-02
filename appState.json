@@ -12,7 +12,7 @@
         "filePath": "testinduu.js",
         "cursor": {
           "lineNumber": 2,
-          "column": 19
+          "column": 21
         },
         "config": {
           "runtime": "nodejs10.x",
@@ -35,7 +35,7 @@
         "filePath": "newJSFFile1.js",
         "cursor": {
           "lineNumber": 2,
-          "column": 17
+          "column": 19
         },
         "config": {
           "runtime": "nodejs10.x",
@@ -52,7 +52,7 @@
       "c5043512-e575-4ca9-a6ff-e71dc258be1c",
       "94d43aa3-167a-47f1-805d-ae497fe32c76"
     ],
-    "currentFileId": "c5043512-e575-4ca9-a6ff-e71dc258be1c",
+    "currentFileId": "94d43aa3-167a-47f1-805d-ae497fe32c76",
     "resources": {},
     "customTemplate": {
       "dialect": "CloudFormation",
@@ -80,7 +80,7 @@
     "platform": "AWS",
     "language": "nodejs",
     "platformRegions": {},
-    "lastSave": 1585826179248
+    "lastSave": 1585826763142
   },
   "VCS_STATE": {
     "provider": "GitHub",
