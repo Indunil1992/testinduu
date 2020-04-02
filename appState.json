@@ -23,12 +23,36 @@
           "name": "testinduu"
         },
         "triggers": []
+      },
+      "94d43aa3-167a-47f1-805d-ae497fe32c76": {
+        "id": "94d43aa3-167a-47f1-805d-ae497fe32c76",
+        "parent": null,
+        "name": "newJSFFile1.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "newJSFFile1.js",
+        "cursor": {
+          "lineNumber": 2,
+          "column": 5
+        },
+        "config": {
+          "runtime": "nodejs10.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": [],
+          "name": "newJSFFile1"
+        },
+        "triggers": []
       }
     },
     "openFiles": [
-      "c5043512-e575-4ca9-a6ff-e71dc258be1c"
+      "c5043512-e575-4ca9-a6ff-e71dc258be1c",
+      "94d43aa3-167a-47f1-805d-ae497fe32c76"
     ],
-    "currentFileId": "c5043512-e575-4ca9-a6ff-e71dc258be1c",
+    "currentFileId": "94d43aa3-167a-47f1-805d-ae497fe32c76",
     "resources": {},
     "customTemplate": {
       "dialect": "CloudFormation",
@@ -56,7 +80,7 @@
     "platform": "AWS",
     "language": "nodejs",
     "platformRegions": {},
-    "lastSave": 1585825922169
+    "lastSave": 1585826085825
   },
   "VCS_STATE": {
     "provider": "GitHub",
