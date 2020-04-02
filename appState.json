@@ -46,13 +46,134 @@
           "name": "newJSFFile1"
         },
         "triggers": []
+      },
+      "60185334-bf2b-4432-907f-92e2e0a64a41": {
+        "id": "60185334-bf2b-4432-907f-92e2e0a64a41",
+        "parent": null,
+        "name": "pythonFile1.py",
+        "type": "PYTHON_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "pythonFile1.py"
+      },
+      "942fc49f-fca4-4bb3-b2b4-49ab2d74cf5d": {
+        "id": "942fc49f-fca4-4bb3-b2b4-49ab2d74cf5d",
+        "parent": null,
+        "name": "html1.html",
+        "type": "HTML_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "html1.html"
+      },
+      "ba143b8f-e7a5-46e6-9d0c-955e9f085786": {
+        "id": "ba143b8f-e7a5-46e6-9d0c-955e9f085786",
+        "parent": null,
+        "name": "css1.css",
+        "type": "CSS_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "css1.css"
+      },
+      "a1224025-7b42-42c1-9f6b-88fd1ee0caea": {
+        "id": "a1224025-7b42-42c1-9f6b-88fd1ee0caea",
+        "parent": null,
+        "name": "scss1.scss",
+        "type": "SCSS_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "scss1.scss"
+      },
+      "776a8ce4-380f-4455-b90b-e88d30be550d": {
+        "id": "776a8ce4-380f-4455-b90b-e88d30be550d",
+        "parent": null,
+        "name": "json1.json",
+        "type": "JSON_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "json1.json"
+      },
+      "e6296984-70ab-4756-9b97-9f73fe14f4ff": {
+        "id": "e6296984-70ab-4756-9b97-9f73fe14f4ff",
+        "parent": null,
+        "name": "xml1.xml",
+        "type": "XML_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "xml1.xml"
+      },
+      "3c45649c-e63f-4a88-8586-97df0a176ad9": {
+        "id": "3c45649c-e63f-4a88-8586-97df0a176ad9",
+        "parent": null,
+        "name": "yaml.yaml",
+        "type": "YAML_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "yaml.yaml"
+      },
+      "c011f6f2-505b-4911-a192-fdf3340bac74": {
+        "id": "c011f6f2-505b-4911-a192-fdf3340bac74",
+        "parent": null,
+        "name": "text.txt",
+        "type": "TEXT_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "text.txt"
+      },
+      "bd8f955e-519d-4eec-8eee-4c964ddaaad7": {
+        "id": "bd8f955e-519d-4eec-8eee-4c964ddaaad7",
+        "parent": null,
+        "name": "mrkdwn1.md",
+        "type": "MARKDOWN_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "mrkdwn1.md"
+      },
+      "6e692ace-2333-47a7-8cb1-1f08ca99ba58": {
+        "id": "6e692ace-2333-47a7-8cb1-1f08ca99ba58",
+        "parent": null,
+        "name": "r1.r",
+        "type": "R_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "r1.r"
+      },
+      "074a49ea-9bb5-4d82-b2ac-4659d21c1b0e": {
+        "id": "074a49ea-9bb5-4d82-b2ac-4659d21c1b0e",
+        "parent": null,
+        "name": "test.txt",
+        "type": "TEXT_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "test.txt"
       }
     },
     "openFiles": [
       "c5043512-e575-4ca9-a6ff-e71dc258be1c",
-      "94d43aa3-167a-47f1-805d-ae497fe32c76"
+      "94d43aa3-167a-47f1-805d-ae497fe32c76",
+      "60185334-bf2b-4432-907f-92e2e0a64a41",
+      "942fc49f-fca4-4bb3-b2b4-49ab2d74cf5d",
+      "ba143b8f-e7a5-46e6-9d0c-955e9f085786",
+      "a1224025-7b42-42c1-9f6b-88fd1ee0caea",
+      "776a8ce4-380f-4455-b90b-e88d30be550d",
+      "e6296984-70ab-4756-9b97-9f73fe14f4ff",
+      "3c45649c-e63f-4a88-8586-97df0a176ad9",
+      "c011f6f2-505b-4911-a192-fdf3340bac74",
+      "bd8f955e-519d-4eec-8eee-4c964ddaaad7",
+      "6e692ace-2333-47a7-8cb1-1f08ca99ba58",
+      "074a49ea-9bb5-4d82-b2ac-4659d21c1b0e"
     ],
-    "currentFileId": "94d43aa3-167a-47f1-805d-ae497fe32c76",
+    "currentFileId": "776a8ce4-380f-4455-b90b-e88d30be550d",
     "resources": {},
     "customTemplate": {
       "dialect": "CloudFormation",
@@ -80,7 +201,7 @@
     "platform": "AWS",
     "language": "nodejs",
     "platformRegions": {},
-    "lastSave": 1585826763142
+    "lastSave": 1585829788976
   },
   "VCS_STATE": {
     "provider": "GitHub",
