@@ -1,0 +1,68 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "c5043512-e575-4ca9-a6ff-e71dc258be1c": {
+        "id": "c5043512-e575-4ca9-a6ff-e71dc258be1c",
+        "parent": null,
+        "name": "testinduu.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "testinduu.js",
+        "cursor": {
+          "lineNumber": 2,
+          "column": 7
+        },
+        "config": {
+          "runtime": "nodejs10.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": [],
+          "name": "testinduu"
+        },
+        "triggers": []
+      }
+    },
+    "openFiles": [
+      "c5043512-e575-4ca9-a6ff-e71dc258be1c"
+    ],
+    "currentFileId": "c5043512-e575-4ca9-a6ff-e71dc258be1c",
+    "resources": {},
+    "customTemplate": {
+      "dialect": "CloudFormation",
+      "definitions": null
+    },
+    "envVariables": [
+      {
+        "lambdaId": "all",
+        "varKey": "SIGMA_AWS_ACC_ID",
+        "varValue": null,
+        "shouldPersist": false,
+        "displayOnly": false,
+        "editable": false
+      }
+    ],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "projectName": "testinduu",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "us-east-1",
+    "platform": "AWS",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1585825922169
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "testinduu",
+      "url": "https://github.com/Indunil1992/testinduu"
+    }
+  }
+}
